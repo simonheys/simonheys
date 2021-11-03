@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I’m Simon, an experienced freelance designer and developer with a passion for making and crafting digital products, tools and services that are useful, empowering or inspiring to others. I am available to design and develop apps or websites and always interested in talking about new projects or roles — please get in touch.
+I’m Simon, an experienced Lead Product Designer with a passion for making and crafting digital products, tools and services that are useful, empowering or inspiring to others.
 
 [Portfolio](https://www.simonheys.com/)<br />
 [Email](mailto:si@simonheys.com)<br />
