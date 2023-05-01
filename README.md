@@ -1,6 +1,6 @@
-### Hello 👋
+### Hello, I’m Simon 👋
 
-I’m Simon, a Senior Software Engineer and Product Designer with a passion for making and crafting digital products, tools and services that are useful, empowering or inspiring to others.
+As a Software Engineer with experience in Product Design, I’m driven by a passion to create software that makes a meaningful difference to people's lives.
 
 [LinkedIn](https://linkedin.com/in/simonheys)<br />
 [Portfolio](https://www.simonheys.com/)<br />
